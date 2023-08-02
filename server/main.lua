@@ -1,5 +1,6 @@
 ESX = nil
 local doorState = {}
+local doors.meik 
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
@@ -26,3 +27,4 @@ function isAuthorized(jobName, doorObject)
 
 	return false
 end
+mlo doorlock oschens hospital tru 5.0 
